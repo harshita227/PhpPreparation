@@ -20,7 +20,6 @@ print "Hello World <br>";
 print"I AM About TO Learn PHp";
 //variables using print
 print "<h2>".$txt1."</h2>";
-print "$tx1"."$txt2";
 
 
 ?>
